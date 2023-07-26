@@ -17,7 +17,3 @@ Here are some ideas to get you started:
 
 ---
 ## Find me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhonatan_Mustiola-776677?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=551155
-)](https://www.linkedin.com/in/jhonatan-mustiola-025812214/)  
-[![Quora](https://img.shields.io/badge/Quora-Jhonatan_Mustiola-776677?style=for-the-badge&logo=quora&logoColor=white&labelColor=551111&color=black)]([www](https://es.quora.com/profile/Jhonatan-Alberto-Mustiola-Castillo)https://es.quora.com/profile/Jhonatan-Alberto-Mustiola-Castillo)
