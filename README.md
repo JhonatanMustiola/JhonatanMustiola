@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64af6cdf5f038d81eead5cf0?variant=dark)](https://roadmap.sh)
