@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64af6cdf5f038d81eead5cf0?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c4f36152c1335d163cf393?variant=dark&roadmaps=cpp%2Cgolang%2Cpython%2Caspnet-core)](https://roadmap.sh)
